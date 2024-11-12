@@ -1,3 +1,5 @@
+# Suma de números pares hasta que se introduce un impar
+
 #Inicializar la suma 
 suma=0
 

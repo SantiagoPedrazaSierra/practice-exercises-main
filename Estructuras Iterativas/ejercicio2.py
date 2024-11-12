@@ -1,3 +1,4 @@
+#Contador de vocales en una cadena
 
 #Solicitar a usuario una cadena de texto 
 cadena_texto=str(input("Ingrese una cadena de texto: "))

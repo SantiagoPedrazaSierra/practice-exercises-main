@@ -1,3 +1,5 @@
+#Conversión de calificaciones numéricas a letras
+
 #Solicitar a usuario calificacion
 calificacion_num=float(input("Ingrese su calificacion (0-100):\n"))
 

@@ -1,3 +1,5 @@
+#Adivina el número (con while)
+
 #Generar numero aleatorio entre 1 y 100
 import random
 random_number=random.randint(1, 100)

@@ -1,3 +1,4 @@
+#Sistema de evaluación de créditos universitarios
 
 #Solicitar a usuario el numero de materias que ha cursado
 num_materias= int(input("Ingrese cuantas materias ha cursado:\n"))

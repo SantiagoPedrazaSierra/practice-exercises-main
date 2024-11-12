@@ -1,3 +1,5 @@
+#Factorial de un número
+
 #Solicitar a usuario que ingrese un numero entero positivo
 numero=int(input("Ingrese un numero entero: "))
 

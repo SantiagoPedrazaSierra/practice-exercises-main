@@ -1,3 +1,5 @@
+#Suma de los primeros N números enteros
+
 # Solicitar al usuario un número entero positivo
 n = int(input("Introduce un número entero positivo: "))
 

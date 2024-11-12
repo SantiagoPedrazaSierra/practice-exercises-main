@@ -1,3 +1,4 @@
+# Sistema de estacionamiento con tarifas progresivas
 
 #Solicitar a usuario numero de horas de estacionamiento
 horas_estacionado= float(input("Ingrese el numero de horas que duro estacionado:\n"))

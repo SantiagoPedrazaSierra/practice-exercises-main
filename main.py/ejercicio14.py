@@ -1,5 +1,5 @@
+#Adivinanza de letras
 import random
-
 def generar_letra_secreta():
     # Genera una letra aleatoria entre A y Z
     return random.choice('ABCDEFGHIJKLMNOPQRSTUVWXYZ')

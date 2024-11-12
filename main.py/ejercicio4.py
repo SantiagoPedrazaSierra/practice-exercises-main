@@ -1,4 +1,5 @@
 #Tipo de triangulo
+
 #Solicitar a usuario datos de lados 
 lado1=(input("Primer lado: "))
 lado2=(input("Segundo lado: "))
